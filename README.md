@@ -1,6 +1,6 @@
 # Build your own X in JavaScript
 
-The repository is a collection of resources to build well-known technologies from scratch. Crafting these projects is a great way to develop a profound understanding and insights into commonly used tools 🤓.
+The repository is a collection of resources to build well-known technologies from scratch with JavaScript/TypeScript. Crafting these projects is a great way to develop a profound understanding and insights into commonly used tools 🤓.
 
 Feel free to open a PR 😆.
 
@@ -40,3 +40,9 @@ Feel free to open a PR 😆.
 - [Implment your own call(), apply() and bind() method in JavaScript](https://blog.usejournal.com/implement-your-own-call-apply-and-bind-method-in-javascript-42cc85dba1b)
 - [Understand JavaScript promises by building a Promise from scratch](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
 - [Implement promises from scrach (TDD way)](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
+
+### License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Credits go to [Daniel Stefanovic](https://github.com/danistefanovic) and [CodeCrafters, Inc.](https://codecrafters.io) for collecting some of the resources.
