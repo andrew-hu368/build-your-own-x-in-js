@@ -27,6 +27,8 @@ Feel free to open a PR 😆.
 - [Build your own React](https://pomb.us/build-your-own-react/)
 - [Building a Custom React Renderer](https://youtu.be/CGpMlWVcHok)
 - [Let's build React Query in 150 lines of code](https://youtu.be/9SrIirrnwk0)
+- [Build your own React Router with class components](https://ui.dev/build-your-own-react-router)
+- [Create your own React Router with functional components](https://dev.to/franciscomendes10866/create-your-own-react-router-53ng)
 
 ### Misc
 
