@@ -35,6 +35,7 @@ Feel free to open a PR 😆.
 - [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 - [Building a frontend framework, from scratch, with components (templating, state, VDOM)](https://mfrachet.github.io/create-frontend-framework/)
 - [WTF is JSX (Let's build a JSX renderer)](https://jasonformat.com/wtf-is-jsx/)
+- [Build a static site generator in 40 lines with Node.js](https://www.webdevdrops.com/en/build-static-site-generator-nodejs-8969ebe34b22/)
 
 ## Build your own `JavaScript internals`
 
