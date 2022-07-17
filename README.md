@@ -43,6 +43,11 @@ Feel free to open a PR 😆.
 - [Understand JavaScript promises by building a Promise from scratch](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
 - [Implement promises from scrach (TDD way)](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
 
+## Build your own `Web Server`
+
+- [Let's code a web server from scratch with NodeJS Streams](https://www.codementor.io/ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji)
+- [Let's build express](https://github.com/antoaravinth/lets-build-express)
+
 ### License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
