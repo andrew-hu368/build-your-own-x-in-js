@@ -43,6 +43,20 @@ Feel free to open a PR 😆.
 - [Understand JavaScript promises by building a Promise from scratch](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
 - [Implement promises from scrach (TDD way)](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
 
+## Versioning
+
+- [Build your own Git](https://kushagra.dev/blog/build-git-learn-git/)
+
+## Programming Language
+
+- [Build your own programming language](https://lisperator.net/pltut/)
+
+## Blockchain
+
+- [Blockchain in Javascript](https://github.com/nambrot/blockchain-in-js)
+- [Learn to build a Javascript Blockchain](https://medium.com/@spenserhuang/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
+- [Write a Node.js blockchain](https://www.hackdoor.io/articles/writing-a-blockchain-in-nodejs-6512fec33307)
+
 ### License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
