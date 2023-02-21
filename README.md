@@ -63,6 +63,10 @@ Feel free to open a PR 😆.
 - [Let's code a web server from scratch with NodeJS Streams](https://www.codementor.io/ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji)
 - [Let's build express](https://github.com/antoaravinth/lets-build-express)
 
+## Build your own `Database`
+
+- [Building a Simple Database in Javascript](https://devtails.xyz/@adam/building-a-simple-database-in-javascript)
+
 ### License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
